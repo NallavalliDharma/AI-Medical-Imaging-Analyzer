@@ -1,0 +1,50 @@
+{
+  "report_id": "RPT_20260111_131126_6C61BE4A",
+  "filename": "chest_image.png",
+  "clinical_context": "",
+  "modality": {
+    "type": "X-ray",
+    "body_region": "Chest",
+    "view": "PA",
+    "quality": "Good",
+    "suitable": true
+  },
+  "analysis": {
+    "findings": [
+      {
+        "finding": "Lung parenchyma appears clear, without evidence of focal consolidation, effusion, or pneumothorax.",
+        "severity": "normal",
+        "location": "Bilateral lung fields"
+      },
+      {
+        "finding": "Cardiothoracic ratio is within normal limits; cardiac silhouette shows normal size and contour.",
+        "severity": "normal",
+        "location": "Mediastinum"
+      },
+      {
+        "finding": "Both hemidiaphragms are well-defined, and costophrenic angles are sharp and clear.",
+        "severity": "normal",
+        "location": "Bilateral"
+      },
+      {
+        "finding": "The trachea is midline.",
+        "severity": "normal",
+        "location": "Upper mediastinum"
+      },
+      {
+        "finding": "Bony thorax (ribs, clavicles, scapulae, and visualized vertebrae) appears intact, with no acute fractures or destructive lesions identified.",
+        "severity": "normal",
+        "location": "Thoracic cage and shoulders"
+      }
+    ],
+    "pathologies": [],
+    "overall_assessment": "This chest X-ray, performed for a routine examination, shows no significant acute cardiopulmonary pathology.",
+    "urgency": "routine",
+    "recommendations": [
+      "No further imaging recommended based on this chest X-ray.",
+      "Routine clinical follow-up as indicated by the patient's overall health status and primary care provider."
+    ]
+  },
+  "report": "**RADIOLOGY REPORT**\n================\n\n**CLINICAL INDICATION:**\nRoutine examination.\n\n**TECHNIQUE:**\nA single frontal view of the chest was obtained.\n\n**FINDINGS:**\nThe lung parenchyma appears clear bilaterally, without evidence of focal consolidation, effusion, or pneumothorax. The cardiothoracic ratio is within normal limits, and the cardiac silhouette demonstrates normal size and contour. Both hemidiaphragms are well-defined, with sharp and clear costophrenic angles. The trachea is midline. The visualized bony thorax, including ribs, clavicles, scapulae, and vertebral bodies, appears intact, with no acute fractures or destructive lesions identified.\n\n**IMPRESSION:**\n1.  No significant acute cardiopulmonary pathology.\n\n**RECOMMENDATIONS:**\n*   No further imaging recommended based on this chest X-ray.\n*   Routine clinical follow-up as indicated by the patient's overall health status and primary care provider.",
+  "timestamp": "2026-01-11T13:11:26.289830"
+}

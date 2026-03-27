@@ -1,0 +1,96 @@
+{
+  "image_path": "chest_image.png",
+  "organ_analysis": {
+    "organ_analysis": {
+      "heart": {
+        "status": "normal",
+        "findings": "Cardiothoracic ratio appears within normal limits. Cardiac contours are unremarkable. No signs of cardiomegaly or specific chamber enlargement.",
+        "confidence": "high"
+      },
+      "left_lung": {
+        "status": "normal",
+        "findings": "Lung fields are clear and well-inflated. No evidence of focal consolidation, masses, nodules, or pneumothorax. Vascular markings appear normal. The left costophrenic angle is sharp.",
+        "confidence": "high"
+      },
+      "right_lung": {
+        "status": "normal",
+        "findings": "Lung fields are clear and well-inflated. No evidence of focal consolidation, masses, nodules, or pneumothorax. Vascular markings appear normal. The right costophrenic angle is sharp.",
+        "confidence": "high"
+      },
+      "pleura": {
+        "status": "normal",
+        "findings": "Pleural spaces appear clear. No evidence of pleural effusion or pneumothorax. Costophrenic angles are sharp bilaterally.",
+        "confidence": "high"
+      },
+      "mediastinum": {
+        "status": "normal",
+        "findings": "The mediastinal contour and width appear within normal limits. The trachea is midline. No evidence of mediastinal widening or mass effect.",
+        "confidence": "high"
+      },
+      "bones": {
+        "status": "normal",
+        "findings": "The visualized osseous structures including ribs, clavicles, scapulae, and thoracic spine appear intact without evidence of acute fracture, dislocation, or overt destructive lesions.",
+        "confidence": "high"
+      },
+      "diaphragm": {
+        "status": "normal",
+        "findings": "Both hemidiaphragms are smooth and well-defined. The right hemidiaphragm is slightly higher than the left, which is physiological. A normal gastric air bubble is noted beneath the left hemidiaphragm. No free subdiaphragmatic air is identified.",
+        "confidence": "high"
+      }
+    }
+  },
+  "pathology_detection": {
+    "pathology_detection": {
+      "cardiomegaly": {
+        "present": false,
+        "severity": null,
+        "location": null,
+        "confidence": "high"
+      },
+      "pleural_effusion": {
+        "present": false,
+        "severity": null,
+        "location": null,
+        "confidence": "high"
+      },
+      "pneumonia": {
+        "present": false,
+        "severity": null,
+        "location": null,
+        "confidence": "high"
+      },
+      "atelectasis": {
+        "present": false,
+        "severity": null,
+        "location": null,
+        "confidence": "high"
+      },
+      "pulmonary_edema": {
+        "present": false,
+        "severity": null,
+        "location": null,
+        "confidence": "high"
+      },
+      "pneumothorax": {
+        "present": false,
+        "severity": null,
+        "location": null,
+        "confidence": "high"
+      },
+      "lung_nodule": {
+        "present": false,
+        "severity": null,
+        "location": null,
+        "confidence": "high"
+      },
+      "consolidation": {
+        "present": false,
+        "severity": null,
+        "location": null,
+        "confidence": "high"
+      }
+    }
+  },
+  "radiology_report": "**RADIOLOGY REPORT**\n\n**PATIENT:** 65-year-old male\n**DOB:** [Patient's Date of Birth]\n**MRN:** [Medical Record Number]\n**DATE OF STUDY:** [Current Date]\n\n---\n\n**1. CLINICAL INDICATION:**\nRoutine dialysis imaging; assess for fluid overload in a 65-year-old male with end-stage renal disease on hemodialysis.\n\n**2. TECHNIQUE:**\nFrontal chest radiograph.\n\n**3. COMPARISON:**\nNo prior studies available for comparison.\n\n**4. FINDINGS:**\n\n*   **Heart:** The cardiothoracic ratio is within normal limits, and cardiac contours are unremarkable without evidence of cardiomegaly.\n*   **Lungs:** Lung fields are clear and well-inflated bilaterally, free of focal consolidation, masses, nodules, or pneumothorax.\n*   **Pleura:** Pleural spaces are clear with sharp costophrenic angles bilaterally, without evidence of effusion or pneumothorax.\n*   **Mediastinum:** The mediastinal contour and width are within normal limits, and the trachea is midline.\n*   **Bones:** The visualized osseous structures appear intact without evidence of acute fracture or destructive lesions.\n*   **Diaphragm:** Both hemidiaphragms are smooth and well-defined, with no free subdiaphragmatic air.\n*   **Soft Tissues:** No gross soft tissue abnormalities are identified.\n\n**5. IMPRESSION:**\n\n1.  No radiographic evidence of cardiomegaly.\n2.  No acute cardiopulmonary pathology.\n3.  No signs of pulmonary vascular congestion or pleural effusion to suggest acute fluid overload.\n\n**6. RECOMMENDATIONS:**\nClinical correlation is recommended.\n\n---\n**Electronically Signed By:**\n[Radiologist's Name/Signature]\nExpert Radiologist",
+  "patient_context": "\n        Patient: 65-year-old male\n        History: End-stage renal disease on hemodialysis\n        Indication: Routine dialysis imaging, assess for fluid overload\n        "
+}

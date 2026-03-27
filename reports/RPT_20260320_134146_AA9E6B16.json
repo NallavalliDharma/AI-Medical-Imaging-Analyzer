@@ -1,0 +1,49 @@
+{
+  "report_id": "RPT_20260320_134146_AA9E6B16",
+  "filename": "cCyg_e6ZVNo5w2zzsxQYxTXxSDtaeJarZaE7oubtB7ZfVvv64pr8KZ6AuxsAVIxQe-W9DyoNlyhnabI2_jrYLbNrr-6ab4fsEwgAVILSY5Q.jpeg",
+  "clinical_context": "",
+  "modality": {
+    "type": "X-ray",
+    "body_region": "Chest",
+    "view": "PA",
+    "quality": "Excellent",
+    "suitable": true
+  },
+  "analysis": {
+    "findings": [
+      {
+        "finding": "Lung fields are clear and well-inflated bilaterally, with no evidence of focal consolidation, masses, nodules, or significant interstitial abnormalities.",
+        "severity": "normal",
+        "location": "Bilateral lung fields"
+      },
+      {
+        "finding": "Hila and mediastinal contours appear unremarkable. Trachea is midline.",
+        "severity": "normal",
+        "location": "Mediastinum and Hila"
+      },
+      {
+        "finding": "Cardiac silhouette is within normal limits for size and contour.",
+        "severity": "normal",
+        "location": "Cardiac region"
+      },
+      {
+        "finding": "Diaphragmatic contours are smooth and sharp. Costophrenic angles are clear bilaterally, indicating no significant pleural effusion.",
+        "severity": "normal",
+        "location": "Diaphragm and Pleura"
+      },
+      {
+        "finding": "Bony thorax (ribs, clavicles, and visible thoracic spine) appears intact with no acute fractures or destructive lesions.",
+        "severity": "normal",
+        "location": "Bony thorax"
+      }
+    ],
+    "pathologies": [],
+    "overall_assessment": "The chest X-ray, PA view, is within normal limits. No acute cardiopulmonary pathology is identified.",
+    "urgency": "routine",
+    "recommendations": [
+      "No specific follow-up required based on this chest X-ray findings."
+    ]
+  },
+  "report": "**RADIOLOGY REPORT**\n================\n\n**CLINICAL INDICATION:**\nRoutine examination.\n\n**TECHNIQUE:**\nChest X-ray, Posteroanterior (PA) view.\n\n**FINDINGS:**\nThe lung fields are clear and well-inflated bilaterally, without evidence of focal consolidation, masses, nodules, or significant interstitial abnormalities.\nThe hila and mediastinal contours appear unremarkable. The trachea is midline.\nThe cardiac silhouette is within normal limits for size and contour.\nDiaphragmatic contours are smooth and sharp. The costophrenic angles are clear bilaterally, indicating no significant pleural effusion.\nThe visualized bony thorax, including ribs, clavicles, and thoracic spine, appears intact with no acute fractures or destructive lesions.\n\n**IMPRESSION:**\n1.  No acute cardiopulmonary pathology identified.\n2.  Chest X-ray, PA view, is within normal limits.\n\n**RECOMMENDATIONS:**\nNo specific follow-up required based on these chest X-ray findings.",
+  "timestamp": "2026-03-20T13:41:46.235671"
+}

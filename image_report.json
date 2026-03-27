@@ -1,0 +1,96 @@
+{
+  "image_path": "image.png",
+  "organ_analysis": {
+    "organ_analysis": {
+      "heart": {
+        "status": "not visible",
+        "findings": "The provided image is an axial T1-weighted MRI of the brain, not a chest X-ray. Therefore, the heart is not visible or assessable in this image.",
+        "confidence": "high"
+      },
+      "left_lung": {
+        "status": "not visible",
+        "findings": "The provided image is an axial T1-weighted MRI of the brain, not a chest X-ray. Therefore, the left lung is not visible or assessable in this image.",
+        "confidence": "high"
+      },
+      "right_lung": {
+        "status": "not visible",
+        "findings": "The provided image is an axial T1-weighted MRI of the brain, not a chest X-ray. Therefore, the right lung is not visible or assessable in this image.",
+        "confidence": "high"
+      },
+      "pleura": {
+        "status": "not visible",
+        "findings": "The provided image is an axial T1-weighted MRI of the brain, not a chest X-ray. Therefore, the pleura are not visible or assessable in this image.",
+        "confidence": "high"
+      },
+      "mediastinum": {
+        "status": "not visible",
+        "findings": "The provided image is an axial T1-weighted MRI of the brain, not a chest X-ray. Therefore, the mediastinum is not visible or assessable in this image.",
+        "confidence": "high"
+      },
+      "bones": {
+        "status": "not visible",
+        "findings": "The provided image is an axial T1-weighted MRI of the brain, not a chest X-ray. The specific skeletal structures (ribs, vertebrae, clavicles, scapulae) relevant to a chest X-ray 'bones' analysis are not visible or assessable in this image. Only cranial bones are partially visible.",
+        "confidence": "high"
+      },
+      "diaphragm": {
+        "status": "not visible",
+        "findings": "The provided image is an axial T1-weighted MRI of the brain, not a chest X-ray. Therefore, the diaphragm is not visible or assessable in this image.",
+        "confidence": "high"
+      }
+    }
+  },
+  "pathology_detection": {
+    "pathology_detection": {
+      "cardiomegaly": {
+        "present": false,
+        "severity": null,
+        "location": "Cannot be assessed from a brain MRI.",
+        "confidence": "high"
+      },
+      "pleural_effusion": {
+        "present": false,
+        "severity": null,
+        "location": "Cannot be assessed from a brain MRI.",
+        "confidence": "high"
+      },
+      "pneumonia": {
+        "present": false,
+        "severity": null,
+        "location": "Cannot be assessed from a brain MRI.",
+        "confidence": "high"
+      },
+      "atelectasis": {
+        "present": false,
+        "severity": null,
+        "location": "Cannot be assessed from a brain MRI.",
+        "confidence": "high"
+      },
+      "pulmonary_edema": {
+        "present": false,
+        "severity": null,
+        "location": "Cannot be assessed from a brain MRI.",
+        "confidence": "high"
+      },
+      "pneumothorax": {
+        "present": false,
+        "severity": null,
+        "location": "Cannot be assessed from a brain MRI.",
+        "confidence": "high"
+      },
+      "lung_nodule": {
+        "present": false,
+        "severity": null,
+        "location": "Cannot be assessed from a brain MRI.",
+        "confidence": "high"
+      },
+      "consolidation": {
+        "present": false,
+        "severity": null,
+        "location": "Cannot be assessed from a brain MRI.",
+        "confidence": "high"
+      }
+    }
+  },
+  "radiology_report": "**RADIOLOGY REPORT**\n\n**PATIENT:** 65-year-old male\n**DOB:** [Assume one, e.g., XX/XX/XXXX]\n**MRN:** [Assume one, e.g., XXXXXXX]\n**DATE OF STUDY:** [Current Date]\n\n---\n\n**1. CLINICAL INDICATION:**\nRoutine dialysis imaging, assess for fluid overload.\n\n**2. TECHNIQUE:**\nThe provided image is an axial T1-weighted MRI of the brain. This is not a frontal chest radiograph, and therefore, the requested chest X-ray interpretation cannot be performed.\n\n**3. COMPARISON:**\nNo prior relevant studies available for comparison.\n\n**4. FINDINGS (ORGAN-AWARE):**\nThe provided image is an axial T1-weighted MRI of the brain. The anatomical structures typically evaluated on a chest radiograph, including the heart, lungs, pleura, mediastinum, diaphragm, and osseous thorax, are not visible or assessable on this study. Consequently, evaluation of cardiomegaly, pleural effusions, pulmonary edema, or other chest pathologies related to fluid overload or other indications is not possible.\n\n**5. IMPRESSION:**\n1.  The imaging study provided is an axial T1-weighted MRI of the brain, not a chest radiograph.\n2.  Evaluation of the chest for the requested clinical indications, including assessment for fluid overload, is not possible based on the submitted image.\n\n**6. RECOMMENDATIONS:**\nIt is recommended that a frontal chest radiograph be obtained to address the clinical indication of assessing for fluid overload and other potential chest pathologies in this patient.\n\n---\n**Electronically Signed By:**\n[Your Name/Radiologist's Name]\nExpert Radiologist",
+  "patient_context": "\n        Patient: 65-year-old male\n        History: End-stage renal disease on hemodialysis\n        Indication: Routine dialysis imaging, assess for fluid overload\n        "
+}

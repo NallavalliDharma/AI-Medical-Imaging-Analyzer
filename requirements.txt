@@ -1,0 +1,31 @@
+# Medical Imaging Web Application - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Web Framework
+flask==3.0.0
+werkzeug==3.0.1
+
+# Google Gemini AI
+google-generativeai==0.3.2
+
+# Image Processing
+Pillow==10.1.0
+
+# PDF Generation
+reportlab==4.0.7
+
+# Optional: For better performance
+# gunicorn==21.2.0  # Production WSGI server
+# python-dotenv==1.0.0  # Environment variable management
+
+# Optional: For DICOM support
+# pydicom==2.4.3
+# numpy==1.24.3
+
+# Optional: For database (if you want to add user management)
+# flask-sqlalchemy==3.1.1
+# flask-login==0.6.3
+
+# Optional: For enhanced security
+# flask-cors==4.0.0
+# flask-limiter==3.5.0
