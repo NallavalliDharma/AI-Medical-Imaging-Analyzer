@@ -121,8 +121,8 @@ AI-Medical-Imaging/
 Clone the repository:
 
 ```
-git clone https://github.com/NallavalliDharma/AI-Medical-Imaging.git
-cd AI-Medical-Imaging
+git clone https://github.com/NallavalliDharma/AI-Medical-Imaging-Analyzer.git
+cd AI-Medical-Imaging-Analyzer
 ```
 
 Install dependencies:
